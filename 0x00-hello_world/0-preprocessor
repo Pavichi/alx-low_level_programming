@@ -1,2 +1,2 @@
-#!/bin/bash
-$CFILE -E -o c.\n
+#!/bin/bash\n
+$CFILE -E -o c.
