@@ -1,2 +1,3 @@
 #!/bin/bash
-gcc-E-oc$CFILE
+gcc _E _o c $CFILE
+
