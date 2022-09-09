@@ -1,2 +1,3 @@
 #!/bin/bash
-gcc _C $CFILE
+gcc -c $CFILE
+
