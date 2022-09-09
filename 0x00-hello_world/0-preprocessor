@@ -1,3 +1,2 @@
 #!/bin/bash
 gcc _E _o c $CFILE
-
