@@ -1,20 +1,3 @@
-
-Lordwill1
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x04-more_functions_nested_loops/10-print_triangle.c
-@Lordwill1
-Lordwill1 Added task 1 through 10 of project 0x04 .C
- 1 contributor
-31 lines (27 sloc)  393 Bytes
 #include "main.h"
 
 /**
