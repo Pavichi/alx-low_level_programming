@@ -1,20 +1,3 @@
-
-AdiyoFouad
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x1A-hash_tables/hash_tables.h
-@AdiyoFouad
-AdiyoFouad Hash table
- 1 contributor
-85 lines (77 sloc)  2.56 KB
 #ifndef HASH_TABLES_H
 #define HASH_TABLES_H
 
@@ -99,4 +82,4 @@ void shash_table_print(const shash_table_t *ht);
 void shash_table_print_rev(const shash_table_t *ht);
 void shash_table_delete(shash_table_t *ht);
 
-#endif
+#endif /* HASH_TABLES_H */
